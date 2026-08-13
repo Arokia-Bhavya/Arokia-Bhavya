@@ -4,8 +4,11 @@ AI Integration Specialist building production multi-agent and RAG systems.
 Previously: Lead Java Full Stack Developer | AWS Cloud Evangelist @ Oportun.
 
 🔭 Currently building: AI SRE Copilot — multi-agent Kubernetes root-cause analysis (LangGraph)
+
 🌱 Learning: advanced RAG, agent evals, LLM ops
+
 💬 Ask me about: LangGraph, agentic systems, AWS, API design
+
 📫 Reach me: https://www.linkedin.com/in/arokia-bhavya-lead-cloud-developer/
 
 ### Featured projects
